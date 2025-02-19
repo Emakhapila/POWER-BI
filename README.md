@@ -1,2 +1,2 @@
-# POWER BU
+# POWER BI
 Merchandise sales analysis.
