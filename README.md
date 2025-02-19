@@ -1,2 +1,2 @@
-# M
+# POWER BU
 Merchandise sales analysis.
